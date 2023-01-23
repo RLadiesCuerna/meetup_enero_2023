@@ -21,7 +21,9 @@ Jueves 26 de enero de 2023
 
 ## Materiales
 
-Para descargar este repositorio, da click en el botón Code > Download zip. Si lo prefieres, puedes usar el comando git clone < url_repositorio > desde tu terminal para clonar el repositorio.
+Para descargar este repositorio, da click en el botón Code > Download zip. 
+
+Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde tu terminal para clonar el repositorio.
 
 
 ## Conocimientos previos requeridos
