@@ -1,14 +1,12 @@
-# Introducción a la programación en R
+# Introducción a los paradigmas de programación en R
 
 
 ¡Les damos la bienvenida!
 
 En este meetup hablaremos sobre:
 - Paradigmas de programación
-- ¿Por qué aprender R?
 - Instalación
 - RStudio vs R
-- Descripción del ambiente en RStudio.
 
 ## Fecha 
 Jueves 26 de enero de 2023
@@ -17,6 +15,12 @@ Jueves 26 de enero de 2023
 ## Instructora
 
 - M.C. Verónica Jiménez Jacinto
+Licenciada en Matemáticas Aplicadas y computación por la UNAM
+Maestria en Ciencias por el CINVESTAV
+Certificación en Administración de Bases de datos Oracle
+Certificación como instructor de Software carpentry (enseñanza de computo para cientificos)
+Forma parte de RLadies Cuernavaca
+Es responsable del sistema de gestion de calidad ISO9001 e ISO17025 del Laboratorio Nacional de Apoyo Tecnologico para las Ciencias Genómicas.
 
 
 ## Materiales
